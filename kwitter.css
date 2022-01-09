@@ -34,3 +34,28 @@ background-image: linear-gradient(to right top, #feffff, #33a0f1, #2591d9);
   background-color:rgb(33, 181, 231);
 }
 
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
+
+#logout
+{
+	font-size: 20px; float: right;
+}
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(102, 223, 245, 0.8);border-radius: 15px;
+}
+
+.input_div_room_page
+{
+	width: 80%;
+}
+
+.input_div label
+{
+	color: white;font-size: 20px;
+}
